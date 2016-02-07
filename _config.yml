@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Rob Harvey Website
+title: Rob Harvey's Website
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Some interesting Data Analysis examples.
 
 # --- Navigation bar options --- #
 
@@ -36,11 +36,11 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Rob Harvey
+  email: "r_harvey@hotmail.co.uk"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: yourname   "@robharvey"
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
